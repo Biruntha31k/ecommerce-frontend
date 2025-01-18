@@ -2,6 +2,8 @@
 
 This repository contains the frontend code for the BlossomTrends application, providing a user-friendly interface for seamless shopping experiences.
 
+**BlossomTrends Link** https://ecommerce-frontend-theta-seven.vercel.app/
+
 ---
 
 ### **Features**
